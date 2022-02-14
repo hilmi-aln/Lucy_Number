@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(223, 193, 193);
+}
+header{
+    margin-top: 1rem;
+    text-align: center;
+    color: rgb(44, 117, 72);
+    font-family: 'Dancing Script', "cursive";
+    font-size: 32px;
+}
+.guessNumber{
+    margin-top: 4rem;
+    text-align: center;
+    font-family: 'Dancing Script', "cursive";
+    color: blueviolet;
+    font-size: 20px;
+}
+img{
+    width: 20%;
+    /* text-align: center;
+    margin-top: 2rem; */
+    margin-left: 40%;
+    padding: 10px;
+}
+.footer{
+    text-align: center;
+    margin: 15px;
+    padding: 5px;
+    font-family: 'Dancing Script', "cursive";
+    font-size: 20px;
+}
+/* .attempt,.remaining_attempt{
+    justify-content: center;
+} */
